@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a computational biologist 🌱 in molecular dynamics of condensed phase organic compounds, mainly proteins. 
+
+- 🔭 I’m currently working in a startup company called Fermify GmbH for the production of cheese protein via fermentation in Vienna, Austria.
+- 🌱 I’m currently learning machine learning.
+- 👯 I’m looking to collaborate on the fields of Intrinsically Disorder Proteins (IDPs) and Liquid-Liquid Phase Separation (LLPS) using molecular dynamics (MD).
+
 <!--
 **yerkoescalona/yerkoescalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
